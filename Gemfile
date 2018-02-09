@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gem 'rake'
 gem 'sinatra', '>=1.0'
+gem 'sinatra-json', '~> 0.1.0'
 gem 'sqlite3'
 gem 'data_mapper'
 gem 'dm-core'
